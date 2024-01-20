@@ -1,17 +1,19 @@
-=== Plugin Name ===
+# Users Registration Date
 Contributors: slaFFik
-Tags: users, users list, registered
+Tags: users, users list, registered date, registration
 Requires at least: 3.3
-Tested up to: 3.7.1
-Stable tag: 1.0
+Tested up to: 6.4
+Stable tag: 1.0.0
+Requires PHP: 5.6
+License: GPLv2 or later
 
-Adds sortable `Registered` column to the list of users in wp-admin area
+New sortable "Registered" date column on the Users page in wp-admin area.
 
 == Description ==
 
-Adds sortable `Registered` column to the list of users in wp-admin area
+The "Users Registration Date" plugin adds a new sortable "Registered" column to the users lists that you can see in wp-admin area.
 
-The plugins honors WordPress date and time formats from the settings.
+The plugin honour WordPress date and time formats from the settings.
 
 == Installation ==
 
@@ -27,6 +29,12 @@ You can translate the plugin into your language. Russian lang is included.
 
 == Changelog ==
 
-= 1.0 (Nov 11th, 2013) =
+= 1.0 (Jan 20, 2024) =
+
+* Checked compatibility with WordPress 6.4.
+* Fixed localization issues.
+* Cleaned up the code.
+
+= 1.0.0 (Nov 11th, 2013) =
 
 * Initial release
