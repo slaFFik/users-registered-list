@@ -3,7 +3,7 @@ Contributors: slaFFik
 Tags: users, users list, registered date, registration
 Requires at least: 3.3
 Tested up to: 6.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 5.6
 License: GPLv2 or later
 
@@ -29,7 +29,7 @@ You can translate the plugin into your language. Russian lang is included.
 
 == Changelog ==
 
-= 1.0 (Jan 20, 2024) =
+= 1.0.1 (Jan 20, 2024) =
 
 * Checked compatibility with WordPress 6.4.
 * Fixed localization issues.
