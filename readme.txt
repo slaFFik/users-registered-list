@@ -2,7 +2,7 @@
 Contributors: slaFFik
 Tags: users, users list, registered date, registration
 Requires at least: 3.3
-Tested up to: 6.4
+Tested up to: 6.7
 Stable tag: 1.0.1
 Requires PHP: 5.6
 License: GPLv2 or later
